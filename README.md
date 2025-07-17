@@ -9,6 +9,7 @@ All current and active policies are documented here and are publicly available f
 ## Repository Contents
 
 - Board governance policies
+  - [Bylaws](https://github.com/thewpcommunitycollective/policies/blob/main/the-wp-community-collective-bylaws.md)
 - Member voting rights and procedures
 - Conflict of interest guidelines
 - Code of conduct and reporting protocols
