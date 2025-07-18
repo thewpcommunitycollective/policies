@@ -2,7 +2,7 @@
 
 This folder contains formal board-approved resolutions for The WP Community Collective.
 
-Each resolution is documented as an accessible (tagged) PDF and serves as a record of decisions made by the Board of Directors.
+Each resolution is documented as an accessible (tagged) PDF and serves as a record of policies and decisions adopted by the Board of Directors.
 
 ## Folder Purpose
 
